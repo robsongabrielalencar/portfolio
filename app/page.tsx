@@ -86,7 +86,7 @@ export default function Portfolio() {
       tech: ["Node.js", "React", "Json"],
       image: "/store.png",
       github: "https://github.com/robsongabrielalencar/app-cordova",
-      demo: "https://rafaelglacerda.github.io/StoreProject/",
+      demo: "https://e-commercecordova.netlify.app/",
       featured: true,
     },
     {
