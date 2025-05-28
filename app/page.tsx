@@ -545,9 +545,11 @@ export default function Portfolio() {
                         ))}
                       </div>
                       <div className="flex space-x-2">
-                        <Button size="sm" variant="ghost" className="p-2">
-                          <Github className="w-4 h-4" />
-                        </Button>
+                        <a href={project.github} target="_blank" rel="noopener noreferrer">
+                            <Button size="sm" variant="ghost" className="p-2">
+                              <Github className="w-4 h-4" />
+                            </Button>
+                          </a>
                         <Button size="sm" variant="ghost" className="p-2">
                           <ExternalLink className="w-4 h-4" />
                         </Button>
