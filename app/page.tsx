@@ -276,7 +276,7 @@ export default function Portfolio() {
                 className={`text-lg leading-relaxed ${darkMode ? "text-gray-300" : "text-gray-600"}`}
                 style={{ textAlign: "justify" }}
               >
-                Sou Robson Gabriel Alencar Souza, estudante de Ciência da Computação na UNIFACS, atualmente no 5º semestre. Tenho como objetivo me tornar um desenvolvedor fullstack, com atuação no frontend e backend.
+                Sou Robson Gabriel Alencar Souza, estudante de Ciência da Computação na UNIFACS, atualmente no 7º semestre. Tenho como objetivo me tornar um desenvolvedor fullstack, com atuação no frontend e backend.
                 Estudo Java, JavaScript, HTML e CSS, com ênfase em Java para backend, além de ter interesse em desenvolvimento mobile.
               </p>
               <p
